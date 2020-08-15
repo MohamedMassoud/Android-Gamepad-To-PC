@@ -17,5 +17,3 @@
 ![](vdev.PNG)
 
 **Future work**
-
-- GUI
