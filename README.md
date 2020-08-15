@@ -11,9 +11,14 @@
 
 4- Connect your gamepad to you android phone either through bluetooth or USB OTG.
 
+5- Type in your PC's IP address that appears on the PC's application into your Android application and press Connect.
+
+6- Enjoy the wirless experience.
+
 
 **Device**
 
 ![](vdev.PNG)
 
 **Future work**
+Publishing the application is not done yet.
