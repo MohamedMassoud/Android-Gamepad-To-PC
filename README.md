@@ -1,6 +1,14 @@
 # Wired-Gamepad-To-Wireless
 - This project is about a system that turns cheap wired gamepads into wireless ones.
 
+**Why would you need this?**
+
+1- Wired controllers are cheap, now you can make them become wireless!
+
+2- The wireless range is as huge as your routers range, obstacles are not that critical now!
+
+3- Got a Bluetooth wireless controller but your PC doesn't support Bluetooth, No problem!
+
 **Steps**
 
 1- Download vJoy and install its drivers.
@@ -20,6 +28,14 @@
 
 ![](vdev.PNG)
 
+**Android application**
+
+![](and.png)
+
+**Server application**
+
+![](server.PNG)
+
 **Future work**
 
-Publishing the application is not done yet.
+Looking forward to publish the system.
