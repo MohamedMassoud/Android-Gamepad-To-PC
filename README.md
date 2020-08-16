@@ -13,7 +13,7 @@
 
 5- Type in your PC's IP address that appears on the PC's application into your Android application and press Connect.
 
-6- Enjoy the wirless experience.
+6- Enjoy the wireless experience.
 
 
 **Device**
