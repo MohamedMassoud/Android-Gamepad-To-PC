@@ -23,9 +23,6 @@
 
 6- Enjoy the wireless experience.
 
-
-**Device**
-
 ![](vdev.PNG)
 
 **Android application**
