@@ -1,5 +1,5 @@
 # Wired-Gamepad-To-Wireless
-- This project is about a system that turns cheap wired gamepads into wireless ones.
+This project is about a system that turns cheap wired gamepads into wireless ones.
 
 **Why would you need this?**
 
