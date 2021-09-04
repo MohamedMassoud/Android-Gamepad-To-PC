@@ -1,5 +1,5 @@
 # Wired-Gamepad-To-Wireless
-This project is about a system that turns cheap wired gamepads into wireless ones.
+This project emulates any gamepad connected to your Android as a desktop gamepad.
 
 **Why would you need this?**
 
@@ -11,7 +11,13 @@ This project is about a system that turns cheap wired gamepads into wireless one
 
 **Steps**
 
-1- Download vJoy and install its drivers.
+1- Download vJoy and install its drivers from https://sourceforge.net/projects/vjoystick/files/latest/download.
+
+2- Search and open "Configure vJoy" from the Start menu.
+
+3- Make sure the check box "Enable vJoy" is enabled and the settings as following:
+
+![](vjoy_config)
 
 2- Install & open the Wired-Gamepad-To-Wireless APK on Android device.
 
@@ -33,6 +39,10 @@ This project is about a system that turns cheap wired gamepads into wireless one
 
 ![](server.PNG)
 
-**Future work**
+**Extras**
 
-Looking forward to publish the system.
+1- You can convert vJoy device into XBOX windows controller using XOutput, for more info visit: https://github.com/csutorasa/XOutput.
+
+2- You can disable vJoy controller if you are using XOutput alongside vJoy to avoid conflict in some games using HiDGuardian. HiDGuardian Blocks various input devices from being accessed by user-mode applications. for more visit: https://github.com/ViGEm/HidGuardian.
+
+
