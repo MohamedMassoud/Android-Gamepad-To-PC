@@ -17,7 +17,7 @@ This project emulates any gamepad connected to your Android as a desktop gamepad
 
 3- Make sure the check box "Enable vJoy" is enabled and the settings as following:
 
-![](vjoy_config)
+![](config)
 
 2- Install & open the Wired-Gamepad-To-Wireless APK on Android device.
 
