@@ -1,4 +1,4 @@
-# Wired-Gamepad-To-Wireless
+# Android Gamepad To PC
 This project emulates any gamepad connected to your Android as a desktop gamepad.
 
 **Why would you need this?**
