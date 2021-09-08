@@ -15,17 +15,19 @@ This project emulates any gamepad connected to your Android as a desktop gamepad
 
 **Downloads, Configurations & Installations**
 
-1- Download vJoy and install its drivers from https://sourceforge.net/projects/vjoystick/files/latest/download. Later versions might have issues.
+1- Download and install the latest JRE from https://www.oracle.com/java/technologies/javase-jre8-downloads.html.
 
-2- Search and open "Configure vJoy" from the Start menu.
+2- Download vJoy and install its drivers from https://sourceforge.net/projects/vjoystick/files/latest/download. Later versions might have issues.
 
-3- Make sure the check box "Enable vJoy" is enabled and the settings as following:
+3- Search and open "Configure vJoy" from the Start menu.
+
+4- Make sure the check box "Enable vJoy" is enabled and the settings as following:
 
 ![](config.PNG)
 
-4- Download and extract https://github.com/MohamedMassoud/Android-Gamepad-To-PC/archive/refs/tags/serverApp.zip. The extracted folder is the server application.
+5- Download and extract https://github.com/MohamedMassoud/Android-Gamepad-To-PC/archive/refs/tags/serverApp.zip. The extracted folder is the server application.
 
-5- Install Android Gamepad To PC application on your Android device from the Play store: >>TO_BE_UPLOADED<<
+6- Install Android Gamepad To PC application on your Android device from the Play store: >>TO_BE_UPLOADED<<
 
 **How to run it**
 
