@@ -5,13 +5,17 @@ This project emulates any gamepad connected to your Android as a desktop gamepad
 
 1- Wired controllers are cheap, now you can make them become wireless!
 
+2- PC's USB port are either all used or destroyed, Android Gamepad to PC is here for the rescue.
+
 2- The wireless range is as huge as your routers range, obstacles are not that critical now!
 
 3- Got a Bluetooth wireless controller but your PC doesn't support Bluetooth, No problem!
 
 **Steps**
 
-1- Download vJoy and install its drivers from https://sourceforge.net/projects/vjoystick/files/latest/download.
+**Downloads, Configurations & Installations**
+
+1- Download vJoy and install its drivers from https://sourceforge.net/projects/vjoystick/files/latest/download. Later versions might have issues.
 
 2- Search and open "Configure vJoy" from the Start menu.
 
@@ -19,13 +23,27 @@ This project emulates any gamepad connected to your Android as a desktop gamepad
 
 ![](config.PNG)
 
-2- Install & open the Wired-Gamepad-To-Wireless APK on Android device.
+4- Download and extract ![](androidgamepadtopc.rar). The extracted folder is the server application.
 
-3- Run the server application on your computer.
+2- Install Android Gamepad To PC application on your Android device from the Play store: https://play.google.com/store/apps/details?id=com.MohamedMassoud.Atom.
+
+**How to run it**
+
+1- Make sure your Android device and your PC are connected to the same network or router.
+
+1- Run the server application on your computer but opening Android Gamepad To PC v1.0.exe from the extracted server folder.
+
+2- If you've installed vJoy correctly, the server application will notify you that vJoy is detected and is awaiting connection from you Android device as following:
+
+![](awaitingConnection.png)
 
 4- Connect your gamepad to you android phone either through bluetooth or USB OTG.
 
 5- Type in your PC's IP address that appears on the PC's application into your Android application and press Connect.
+
+6- Once you press Connect, the server application should notify you that connection is successful as following:
+
+![](connectionSuccessful.png)
 
 6- Enjoy the wireless experience.
 
@@ -45,4 +63,8 @@ This project emulates any gamepad connected to your Android as a desktop gamepad
 
 2- You can disable vJoy controller if you are using XOutput alongside vJoy to avoid conflict in some games using HiDGuardian. HiDGuardian Blocks various input devices from being accessed by user-mode applications. for more visit: https://github.com/ViGEm/HidGuardian.
 
+**Credits**
 
+1- Many thanks to vJoy for implementing the drivers. vJoy's GitHub: https://github.com/shauleiz/vJoy.
+
+2- Many thanks to rlj1202 for creating the Java library (JvJoyInterface) for vJoy to write vJoy feeder. JvJoyInterface's GitHub: https://github.com/rlj1202/JvJoyInterface.
