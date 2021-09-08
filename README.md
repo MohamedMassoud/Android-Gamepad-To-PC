@@ -57,6 +57,16 @@ This project emulates any gamepad connected to your Android as a desktop gamepad
 
 ![](server.PNG)
 
+**Tips**
+
+1- Your screen has to be on so that your gameplay doesn't get interrupted by the Android System. Pressing any button on the gamepad does trigger the screen to be on however, you might need to adjust your device's screen sleep timeout in case you stay idle.
+
+2- Your screen being on during your gameplay might drain your battery, so please lower down your screen's brightness to save battery.
+
+3- If you ever minimized your server application and want to re-open or exit, you can right click on the application's tray for options as following:
+
+![](tray.PNG)
+
 **Extras**
 
 1- You can convert vJoy device into XBOX windows controller using XOutput, for more info visit: https://github.com/csutorasa/XOutput.
