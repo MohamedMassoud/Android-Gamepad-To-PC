@@ -7,9 +7,9 @@ This project emulates any gamepad connected to your Android as a desktop gamepad
 
 2- PC's USB port are either all used or destroyed, Android Gamepad to PC is here for the rescue.
 
-2- The wireless range is as huge as your routers range, obstacles are not that critical now!
+3- The wireless range is as huge as your routers range, obstacles are not that critical now!
 
-3- Got a Bluetooth wireless controller but your PC doesn't support Bluetooth, No problem!
+4- Got a Bluetooth wireless controller but your PC doesn't support Bluetooth, No problem!
 
 **Steps**
 
@@ -25,15 +25,15 @@ This project emulates any gamepad connected to your Android as a desktop gamepad
 
 4- Download and extract https://github.com/MohamedMassoud/Android-Gamepad-To-PC/archive/refs/tags/serverApp.zip. The extracted folder is the server application.
 
-2- Install Android Gamepad To PC application on your Android device from the Play store: https://play.google.com/store/apps/details?id=com.MohamedMassoud.Atom.
+5- Install Android Gamepad To PC application on your Android device from the Play store: https://play.google.com/store/apps/details?id=com.MohamedMassoud.Atom.
 
 **How to run it**
 
 1- Make sure your Android device and your PC are connected to the same network or router.
 
-1- Run the server application on your computer but opening Android Gamepad To PC v1.0.exe from the extracted server folder.
+2- Run the server application on your computer but opening Android Gamepad To PC v1.0.exe from the extracted server folder.
 
-2- If you've installed vJoy correctly, the server application will notify you that vJoy is detected and is awaiting connection from you Android device as following:
+3- If you've installed vJoy correctly, the server application will notify you that vJoy is detected and is awaiting connection from you Android device as following:
 
 ![](awaitingConnection.png)
 
@@ -45,7 +45,7 @@ This project emulates any gamepad connected to your Android as a desktop gamepad
 
 ![](connectionSuccessful.png)
 
-6- Enjoy the wireless experience.
+7- Enjoy the wireless experience.
 
 ![](vdev.PNG)
 
