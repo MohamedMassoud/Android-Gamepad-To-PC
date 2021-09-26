@@ -18,7 +18,7 @@ This project emulates any gamepad connected to your Android as a desktop gamepad
 
 **Downloads, Configurations & Installations**
 
-1- Download and install the latest JRE from https://www.oracle.com/java/technologies/javase-jre8-downloads.html.
+1- Download and install the latest JRE from https://www.oracle.com/java/technologies/downloads/#java16-windows.
 
 2- Download vJoy and install its drivers from https://sourceforge.net/projects/vjoystick/files/latest/download. Later versions might have issues.
 
