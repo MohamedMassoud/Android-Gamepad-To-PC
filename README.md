@@ -28,7 +28,7 @@ This project emulates any gamepad connected to your Android as a desktop gamepad
 
 ![](config.PNG)
 
-5- Download and extract https://github.com/MohamedMassoud/Android-Gamepad-To-PC/archive/refs/tags/serverApp.zip. The extracted folder is the server application.
+5- Download and extract https://github.com/MohamedMassoud/Android-Gamepad-To-PC/blob/master/AGTP_Server.rar. The extracted folder is the server application.
 
 6- Install Android Gamepad To PC application on your Android device from the Play store: https://play.google.com/store/apps/details?id=com.mohamedmassoud.androidgamepadtopc
 
