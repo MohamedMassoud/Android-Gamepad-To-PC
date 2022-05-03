@@ -83,3 +83,9 @@ This project emulates any gamepad connected to your Android as a desktop gamepad
 1- Many thanks to vJoy for implementing the drivers. vJoy's GitHub: https://github.com/shauleiz/vJoy.
 
 2- Many thanks to rlj1202 for creating the Java library (JvJoyInterface) for vJoy to write vJoy feeder. JvJoyInterface's GitHub: https://github.com/rlj1202/JvJoyInterface.
+
+**Updates Soon**
+
+1- I am aware about the problems that happen with the crash that happens on button click. This is because the current implementation supports only Direct Input gamepads.
+
+2- I am working on supporting XInput as well this will be released very soon.
