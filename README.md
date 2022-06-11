@@ -89,3 +89,11 @@ This project emulates any gamepad connected to your Android as a desktop gamepad
 1- I am aware about the problems that happen with the crash that happens on button click. This is because the current implementation supports only Direct Input gamepads.
 
 2- I am working on supporting XInput as well this will be released very soon.
+
+**Updates for AGTP Server V3**
+
+What's new:
+
+1- Added support for both Generic & Modern Gamepads.
+
+2- Added axes customization to fix some gamepads wrong axes assignments.
