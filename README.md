@@ -28,7 +28,7 @@ This project emulates any gamepad connected to your Android as a desktop gamepad
 
 ![](config.PNG)
 
-5- Download and extract https://github.com/MohamedMassoud/Android-Gamepad-To-PC/blob/master/AGTP_Server.rar?raw=true. The extracted folder is the server application.
+5- Download and extract https://github.com/MohamedMassoud/Android-Gamepad-To-PC/releases/download/serverAppV3/AGTP.V3.rar. The extracted folder is the server application.
 
 6- Install Android Gamepad To PC application on your Android device from the Play store: https://play.google.com/store/apps/details?id=com.mohamedmassoud.androidgamepadtopc
 
@@ -36,7 +36,7 @@ This project emulates any gamepad connected to your Android as a desktop gamepad
 
 1- Make sure your Android device and your PC are connected to the same network either by the same router, hotspot or even USB tethering.
 
-2- Run the server application on your computer but opening AGTP_Server.exe from the extracted server folder.
+2- Run the server application on your computer but opening AGTP Server V3.exe from the extracted server folder.
 
 3- If you've installed vJoy correctly, the server application will notify you that vJoy is detected and is awaiting connection from you Android device as following:
 
