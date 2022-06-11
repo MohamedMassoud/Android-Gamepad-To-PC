@@ -56,7 +56,7 @@ This project emulates any gamepad connected to your Android as a desktop gamepad
 
 **Android application**
 
-![](and.png)
+![](AGTP_Android_V3.jpg)
 
 **Server application**
 
