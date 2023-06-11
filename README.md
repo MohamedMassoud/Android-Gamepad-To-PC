@@ -36,7 +36,7 @@ This project emulates any gamepad connected to your Android as a desktop gamepad
 
 1- Make sure your Android device and your PC are connected to the same network either by the same router, hotspot or even USB tethering.
 
-2- Run the server application on your computer but opening AGTP Server V3.exe from the extracted server folder.
+2- Run the server application on your computer by opening AGTP Server V3.exe from the extracted server folder.
 
 3- If you've installed vJoy correctly, the server application will notify you that vJoy is detected and is awaiting connection from you Android device as following:
 
